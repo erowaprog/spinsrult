@@ -1,0 +1,25 @@
+.header-container {
+display: flex;
+height: 70px;
+padding: var(--spacing-small);
+background-color: rgb(53, 52, 52);
+}
+
+.header-counter {
+    margin-left: auto;
+    padding-right: var(--spacing-small);
+    font-weight: bold;
+    cursor: pointer;
+    color: aliceblue;
+}
+
+.spinsrult {
+    margin-left: 40px;
+    margin-top: 1px;
+    padding-right: var(--spacing-small);
+    font-weight: bold;
+    cursor: pointer;
+    color: aliceblue;
+    
+}
+
